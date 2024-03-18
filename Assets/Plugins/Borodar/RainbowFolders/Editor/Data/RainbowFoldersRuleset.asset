@@ -338,10 +338,22 @@ MonoBehaviour:
     IsBackgroundRecursive: 0
     IsHidden: 0
   - Type: 1
-    Key: Assets/Prefabs/InHiearchy
+    Key: Assets/Graphic [Sprite]
     Ordinal: 27
     Priority: 0
-    IconType: 2120
+    IconType: 2170
+    SmallIcon: {fileID: 0}
+    LargeIcon: {fileID: 0}
+    IsIconRecursive: 0
+    BackgroundType: 0
+    BackgroundTexture: {fileID: 0}
+    IsBackgroundRecursive: 0
+    IsHidden: 0
+  - Type: 1
+    Key: Assets/Material
+    Ordinal: 28
+    Priority: 0
+    IconType: 2070
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
@@ -351,21 +363,9 @@ MonoBehaviour:
     IsHidden: 0
   - Type: 1
     Key: Assets/Script
-    Ordinal: 28
-    Priority: 0
-    IconType: 2160
-    SmallIcon: {fileID: 0}
-    LargeIcon: {fileID: 0}
-    IsIconRecursive: 0
-    BackgroundType: 0
-    BackgroundTexture: {fileID: 0}
-    IsBackgroundRecursive: 0
-    IsHidden: 0
-  - Type: 1
-    Key: Assets/Graphic [Sprite]
     Ordinal: 29
     Priority: 0
-    IconType: 2170
+    IconType: 2120
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
