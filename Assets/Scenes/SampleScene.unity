@@ -322,8 +322,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
-=======
 --- !u!1 &257522407
 GameObject:
   m_ObjectHideFlags: 0
@@ -418,7 +416,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 174671870}
   - {fileID: 1062388909}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -427,7 +424,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
->>>>>>> a30e12b (텍스트추가)
 --- !u!1 &278247345
 GameObject:
   m_ObjectHideFlags: 0
@@ -2075,3 +2071,4 @@ SceneRoots:
   - {fileID: 928383097}
   - {fileID: 1182967468}
   - {fileID: 2074965027}
+  - {fileID: 257522411}
